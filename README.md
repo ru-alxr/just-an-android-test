@@ -1,6 +1,6 @@
 # Just a test
 
-This is a small testing project pointed to show the principles and technologies we are using.
+This is a small testing project pointed to show the principles and technologies we are using. Application is pretty simple and consists of two screens: notifications list and notification detail
 
 ![enter image description here](https://raw.githubusercontent.com/scraplesh/just-a-test/8dab514f034532991905262247ce71ec3503e752/resources/Notifications.png)
 
@@ -10,6 +10,7 @@ This is a small testing project pointed to show the principles and technologies 
 
 ## Technoligies
 
+ - [Kotlin](https://kotlinlang.org/docs/reference/) - main developing language
  - [Clean architecture](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) - example of implementing
  - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - presentation pattern
  - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
@@ -23,6 +24,7 @@ This is a small testing project pointed to show the principles and technologies 
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTk0NzU1NywtMTk4MDQ5NTk4NSwzNz
-YwMTMwMDMsMzU5NjIxMzQxLC0xNjg3Mjc0MTgwXX0=
+eyJoaXN0b3J5IjpbNjU1MDI3NjE2LC05MTU5NDc1NTcsLTE5OD
+A0OTU5ODUsMzc2MDEzMDAzLDM1OTYyMTM0MSwtMTY4NzI3NDE4
+MF19
 -->
