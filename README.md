@@ -5,9 +5,9 @@ This is a small testing project pointed to show the principles and technologies 
 ![Notifications list](https://raw.githubusercontent.com/scraplesh/just-a-test/82794ca955e55dee8960e18552955ec68dfb82ba/resources/Notifications.png) ![Favorites notification](https://github.com/scraplesh/just-a-test/blob/master/resources/Favorites%20notification.png?raw=true)   ![Career notification](https://github.com/scraplesh/just-a-test/blob/82794ca955e55dee8960e18552955ec68dfb82ba/resources/Career%20notification.png?raw=true) ![Characteristics notification](https://github.com/scraplesh/just-a-test/blob/82794ca955e55dee8960e18552955ec68dfb82ba/resources/Characteristics%20notification.png?raw=true)
  ![Favorites notification](https://github.com/scraplesh/just-a-test/blob/82794ca955e55dee8960e18552955ec68dfb82ba/resources/Contacts%20notification.png?raw=true) ![Online notification](https://github.com/scraplesh/just-a-test/blob/82794ca955e55dee8960e18552955ec68dfb82ba/resources/Online%20notification.png?raw=true) ![Performance notificatin](https://github.com/scraplesh/just-a-test/blob/82794ca955e55dee8960e18552955ec68dfb82ba/resources/Performance%20notification.png?raw=true)
 
-[Here](https://app.sympli.io/p/a9dda454b874d81773afa1ae3177dd84540ba3ebc5) you can view des
+[Here](https://app.sympli.io/p/a9dda454b874d81773afa1ae3177dd84540ba3ebc5) you can view design specs, such as margins, fonts, colors and drawables.
 
-[Mock server](https://justtest11.docs.apiary.io/#)
+Application should get data from server. [Mock server](https://justtest11.docs.apiary.io/#)
 
 ## Technoligies
 
@@ -25,7 +25,7 @@ This is a small testing project pointed to show the principles and technologies 
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTk5MTA5MCwxNzAwODA4OTQsMTA2MT
+eyJoaXN0b3J5IjpbLTExMTUzOTQxOCwxNzAwODA4OTQsMTA2MT
 kyNDAxMywzNzA2MDY5NjcsLTkxNTk0NzU1NywtMTk4MDQ5NTk4
 NSwzNzYwMTMwMDMsMzU5NjIxMzQxLC0xNjg3Mjc0MTgwXX0=
 -->
