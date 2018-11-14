@@ -1,11 +1,11 @@
 # Just a test
 
-[Mock server](https://justtest11.docs.apiary.io/#)
 [Design](https://app.sympli.io/p/a9dda454b874d81773afa1ae3177dd84540ba3ebc5)
+[Mock server](https://justtest11.docs.apiary.io/#)
 
 ## Technoligies
 
- - [Clean architecture]()
+ - [Clean architecture](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) - example of implementing
  - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - presentation pattern
  - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
  - [Kapsule](https://traversal.space/kapsule/) - dependency injection
@@ -18,5 +18,5 @@
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NDcxMDI0LC0xNjg3Mjc0MTgwXX0=
+eyJoaXN0b3J5IjpbMzU5NjIxMzQxLC0xNjg3Mjc0MTgwXX0=
 -->
