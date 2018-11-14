@@ -5,7 +5,8 @@
 
 ## Technoligies
 
- - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - 
+ - [Clean architecture]()
+ - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - presentation pattern
  - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
  - [Kapsule](https://traversal.space/kapsule/) - dependency injection
  - [Retrofit](https://square.github.io/retrofit/) - HTTP client for API
@@ -17,6 +18,5 @@
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ1NzE4NTQsLTE2ODcyNzQxODBdfQ
-==
+eyJoaXN0b3J5IjpbODI4NDcxMDI0LC0xNjg3Mjc0MTgwXX0=
 -->
