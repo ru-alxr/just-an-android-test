@@ -9,8 +9,9 @@
  - [Retrofit](https://square.github.io/retrofit/) - HTTP client for API
  - [JSON API](https://jsonapi.org/) - client-server communication protocol
  - [Constraint layout](https://developer.android.com/training/constraint-layout/) - main layout tool
- - [RxJava]
+ - [RxJava](https://github.com/ReactiveX/RxJava) - reactive streams
+ - [Picasso](http://square.github.io/picasso/) - image loading
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk4OTU1NTddfQ==
+eyJoaXN0b3J5IjpbLTY4ODExOTk3M119
 -->
