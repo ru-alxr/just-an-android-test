@@ -1,6 +1,8 @@
 # Just a test
 
-![enter image description here](https://raw.githubusercontent.com/scraplesh/just-a-test/master/resources/Notifications.png
+This is a small testing project pointed to show the principals
+
+![enter image description here](https://raw.githubusercontent.com/scraplesh/just-a-test/8dab514f034532991905262247ce71ec3503e752/resources/Notifications.png)
 
 [Design](https://app.sympli.io/p/a9dda454b874d81773afa1ae3177dd84540ba3ebc5)
 
@@ -21,6 +23,6 @@
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODA0OTU5ODUsMzc2MDEzMDAzLDM1OT
-YyMTM0MSwtMTY4NzI3NDE4MF19
+eyJoaXN0b3J5IjpbLTUxNjU0OTY3MCwtMTk4MDQ5NTk4NSwzNz
+YwMTMwMDMsMzU5NjIxMzQxLC0xNjg3Mjc0MTgwXX0=
 -->
