@@ -10,7 +10,7 @@ This is a small testing project pointed to show the principles and technologies 
 Application should get data from server. [Here](https://justtest11.docs.apiary.io/#) we prepared a small mock server.
 
 ## Technoligies
-This is 
+This is a list of technologies we use in our application. Fell free to use any of thes technologies you want.
 
  - [Kotlin](https://kotlinlang.org/docs/reference/) - main developing language
  - [Clean architecture](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) - example of implementing
@@ -26,7 +26,7 @@ This is
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQxMDI1NywxNzAwODA4OTQsMTA2MT
+eyJoaXN0b3J5IjpbMTg4ODIxMzM0NCwxNzAwODA4OTQsMTA2MT
 kyNDAxMywzNzA2MDY5NjcsLTkxNTk0NzU1NywtMTk4MDQ5NTk4
 NSwzNzYwMTMwMDMsMzU5NjIxMzQxLC0xNjg3Mjc0MTgwXX0=
 -->
