@@ -13,7 +13,7 @@
  - [Picasso](http://square.github.io/picasso/) - image loading
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - ViewModel from android architecture components
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
-- 
+- [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0NDc3MzQ2XX0=
+eyJoaXN0b3J5IjpbLTE2ODcyNzQxODBdfQ==
 -->
