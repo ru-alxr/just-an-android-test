@@ -5,8 +5,9 @@
 ## Technoligies
 
  - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
+ - [Kapsule](https://traversal.space/kapsule/) - dependency injection
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTQzOTY4MF19
+eyJoaXN0b3J5IjpbLTkxODg5OTkzNF19
 -->
