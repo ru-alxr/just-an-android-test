@@ -11,7 +11,7 @@
  - [Constraint layout](https://developer.android.com/training/constraint-layout/) - main layout tool
  - [RxJava](https://github.com/ReactiveX/RxJava) - reactive streams
  - [Picasso](http://square.github.io/picasso/) - image loading
-
+- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - ViewModel from android architecture components
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODExOTk3M119
+eyJoaXN0b3J5IjpbLTI3OTYwNTgzNl19
 -->
