@@ -12,6 +12,7 @@
  - [RxJava](https://github.com/ReactiveX/RxJava) - reactive streams
  - [Picasso](http://square.github.io/picasso/) - image loading
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - ViewModel from android architecture components
+- [AdapterDelegates]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTYwNTgzNl19
+eyJoaXN0b3J5IjpbLTIwODkxODY5MDBdfQ==
 -->
