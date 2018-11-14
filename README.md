@@ -1,10 +1,11 @@
-# just-a-test
+# Just a test
 
 [Mock server](https://justtest11.docs.apiary.io/#)
+[Design](https://app.sympli.io/p/a9dda454b874d81773afa1ae3177dd84540ba3ebc5)
 
 ## Technoligies
 
- - MVI
+ - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - 
  - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
  - [Kapsule](https://traversal.space/kapsule/) - dependency injection
  - [Retrofit](https://square.github.io/retrofit/) - HTTP client for API
@@ -16,5 +17,6 @@
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDIxMTI1OSwtMTY4NzI3NDE4MF19
+eyJoaXN0b3J5IjpbLTE4ODQ1NzE4NTQsLTE2ODcyNzQxODBdfQ
+==
 -->
