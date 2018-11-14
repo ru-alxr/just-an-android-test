@@ -2,7 +2,9 @@
 
 This is a small testing project pointed to show the principles and technologies we are using. Application is pretty simple and consists of two screens: notifications list and notification detail screen.
 
-![Notifications list](https://raw.githubusercontent.com/scraplesh/just-a-test/8dab514f034532991905262247ce71ec3503e752/resources/Notifications.png)
+![Notifications list](https://github.com/scraplesh/just-a-test/blob/master/resources/Notifications.png?raw=true)
+![enter image description here](https://github.com/scraplesh/just-a-test/blob/master/resources/Characteristics%20notification.png?raw=true)
+
 
 [Design](https://app.sympli.io/p/a9dda454b874d81773afa1ae3177dd84540ba3ebc5)
 
@@ -24,7 +26,7 @@ This is a small testing project pointed to show the principles and technologies 
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNjA2OTY3LC05MTU5NDc1NTcsLTE5OD
-A0OTU5ODUsMzc2MDEzMDAzLDM1OTYyMTM0MSwtMTY4NzI3NDE4
-MF19
+eyJoaXN0b3J5IjpbLTE3NTc0NzA4MDYsMzcwNjA2OTY3LC05MT
+U5NDc1NTcsLTE5ODA0OTU5ODUsMzc2MDEzMDAzLDM1OTYyMTM0
+MSwtMTY4NzI3NDE4MF19
 -->
