@@ -4,6 +4,7 @@
 
 ## Technoligies
 
+ - MVI
  - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
  - [Kapsule](https://traversal.space/kapsule/) - dependency injection
  - [Retrofit](https://square.github.io/retrofit/) - HTTP client for API
@@ -15,5 +16,5 @@
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcyNzQxODBdfQ==
+eyJoaXN0b3J5IjpbMTY0MDIxMTI1OSwtMTY4NzI3NDE4MF19
 -->
