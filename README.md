@@ -1,6 +1,6 @@
 # Just a test
 
-This is a small testing project pointed to show the principles and technologies we are
+This is a small testing project pointed to show the principles and technologies we are using.
 
 ![enter image description here](https://raw.githubusercontent.com/scraplesh/just-a-test/8dab514f034532991905262247ce71ec3503e752/resources/Notifications.png)
 
@@ -23,6 +23,6 @@ This is a small testing project pointed to show the principles and technologies 
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTMwMzM4OTMsLTE5ODA0OTU5ODUsMz
-c2MDEzMDAzLDM1OTYyMTM0MSwtMTY4NzI3NDE4MF19
+eyJoaXN0b3J5IjpbLTkxNTk0NzU1NywtMTk4MDQ5NTk4NSwzNz
+YwMTMwMDMsMzU5NjIxMzQxLC0xNjg3Mjc0MTgwXX0=
 -->
