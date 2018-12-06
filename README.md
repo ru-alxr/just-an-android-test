@@ -16,7 +16,7 @@ This is a list of technologies we use in our application. Fell free to use any o
  - [Clean architecture](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) - example of implementing
  - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - presentation pattern
  - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
- - [Kapsule](https://traversal.space/kapsule/) - dependency injection
+ - [Koin](https://insert-koin.io/) - dependency injection
  - [Retrofit](https://square.github.io/retrofit/) - HTTP client for API
  - [JSON API](https://jsonapi.org/) - client-server communication protocol
  - [Constraint layout](https://developer.android.com/training/constraint-layout/) - main layout tool
@@ -26,8 +26,8 @@ This is a list of technologies we use in our application. Fell free to use any o
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMTEwNTcsLTIwNDkxNTI0MzcsMTcwMD
-gwODk0LDEwNjE5MjQwMTMsMzcwNjA2OTY3LC05MTU5NDc1NTcs
-LTE5ODA0OTU5ODUsMzc2MDEzMDAzLDM1OTYyMTM0MSwtMTY4Nz
-I3NDE4MF19
+eyJoaXN0b3J5IjpbOTA4NjA3MzU4LDk0MTExMDU3LC0yMDQ5MT
+UyNDM3LDE3MDA4MDg5NCwxMDYxOTI0MDEzLDM3MDYwNjk2Nywt
+OTE1OTQ3NTU3LC0xOTgwNDk1OTg1LDM3NjAxMzAwMywzNTk2Mj
+EzNDEsLTE2ODcyNzQxODBdfQ==
 -->
