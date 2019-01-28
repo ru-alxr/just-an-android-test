@@ -15,6 +15,7 @@ This is a list of technologies we use in our application. Fell free to use any o
  - [Kotlin](https://kotlinlang.org/docs/reference/) - main developing language
  - [Clean architecture](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) - example of implementing
  - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - presentation pattern
+ - [MVICore](https://github.com/badoo/MVICore) - MVI implementation library
  - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
  - [Koin](https://insert-koin.io/) - dependency injection
  - [Retrofit](https://square.github.io/retrofit/) - HTTP client for API
@@ -22,12 +23,5 @@ This is a list of technologies we use in our application. Fell free to use any o
  - [Constraint layout](https://developer.android.com/training/constraint-layout/) - main layout tool
  - [RxJava](https://github.com/ReactiveX/RxJava) - reactive streams
  - [Picasso](http://square.github.io/picasso/) - image loading
-- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - ViewModel from android architecture components
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NjA3MzU4LDk0MTExMDU3LC0yMDQ5MT
-UyNDM3LDE3MDA4MDg5NCwxMDYxOTI0MDEzLDM3MDYwNjk2Nywt
-OTE1OTQ3NTU3LC0xOTgwNDk1OTg1LDM3NjAxMzAwMywzNTk2Mj
-EzNDEsLTE2ODcyNzQxODBdfQ==
--->
