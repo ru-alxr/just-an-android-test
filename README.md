@@ -9,9 +9,9 @@ This is a small testing project pointed to show the principles and technologies 
 
 Application should get data from server. [Here](https://justtest11.docs.apiary.io/#) we prepared a small mock server.
 
-## Technologies
 This is a list of technologies we use in our application. Fell free to use any of these technologies you want.
 
+## Android technologies
  - [Kotlin](https://kotlinlang.org/docs/reference/) - main developing language
  - [Clean architecture](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) - example of implementing
  - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - presentation pattern
@@ -25,3 +25,14 @@ This is a list of technologies we use in our application. Fell free to use any o
  - [Picasso](http://square.github.io/picasso/) - image loading
 - [AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates) - library for constructing heterogeneous lists
 - [AndroidX](https://developer.android.com/jetpack/androidx/) - support libraries replacement
+
+## iOS technologies
+- [Swift](https://swift.org/) - main developing language
+ - [Clean architecture](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) - example of implementing
+ - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - presentation pattern
+ - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
+ - [Swinject](https://github.com/Swinject/Swinject) - dependency injection
+ - [Moya](https://moya.github.io/) - HTTP client for API
+ - [JSON API](https://jsonapi.org/) - client-server communication protocol
+ - [SnapKit](http://snapkit.io/) - main layout tool
+ - [RxSwift](https://github.com/ReactiveX/RxSwift) - reactive streams
