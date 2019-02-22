@@ -29,10 +29,16 @@ This is a list of technologies we use in our application. Fell free to use any o
 ## iOS technologies
 - [Swift](https://swift.org/) - main developing language
  - [Clean architecture](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) - example of implementing
+ - Modular iOS
+     + [Part 1](https://edit.theappbusiness.com/modular-ios-strangling-the-monolith-4a6843a28992)
+     + [Part 2](https://edit.theappbusiness.com/modular-ios-splitting-a-workspace-into-modules-331293f1090)
+     + [Part 3](https://edit.theappbusiness.com/modular-ios-part-3-configuration-testing-of-modules-2f287b19eeef)
+     + [Part 4](https://edit.theappbusiness.com/modular-ios-part-4-sharing-configuration-between-modules-b08a31490447)
  - [MVI](http://hannesdorfmann.com/android/mosby3-mvi-1) - presentation pattern
- - [Cicerone](https://github.com/terrakok/Cicerone) - navigation
+ - [Router](https://github.com/freshOS/Router) - navigation
  - [Swinject](https://github.com/Swinject/Swinject) - dependency injection
  - [Moya](https://moya.github.io/) - HTTP client for API
  - [JSON API](https://jsonapi.org/) - client-server communication protocol
+ - [Japx](https://github.com/infinum/Japx)
  - [SnapKit](http://snapkit.io/) - main layout tool
  - [RxSwift](https://github.com/ReactiveX/RxSwift) - reactive streams
